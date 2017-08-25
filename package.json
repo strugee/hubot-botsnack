@@ -1,7 +1,7 @@
 {
   "name": "hubot-botsnack",
   "description": "botsnack command implementation for Hubot",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "AJ Jordan <alex@strugee.net>",
   "license": "WTFPL",
   "keywords": "hubot, hubot-scripts, botsnack",
