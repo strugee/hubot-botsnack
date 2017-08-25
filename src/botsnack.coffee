@@ -5,8 +5,7 @@
 #   LIST_OF_ENV_VARS_TO_SET
 #
 # Commands:
-#   hubot hello - <what the respond trigger does>
-#   orly - <what the hear trigger does>
+#   hubot botsnack - give the bot a snack for being good
 #
 # Notes:
 #   <optional notes required for the script>
@@ -14,9 +13,8 @@
 # Author:
 #   AJ Jordan <alex@strugee.net>
 
-module.exports = (robot) ->
-  robot.respond /hello/, (res) ->
-    res.reply "hello!"
+responses = ['yum!', '*catches the botsnack in midair*']
 
-  robot.hear /orly/, (res) ->
-    res.send "yarly"
+module.exports = (robot) ->
+  robot.respond /botsnack/, (res) ->
+    res.reply res.random responses
