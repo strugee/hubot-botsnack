@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/strugee/hubot-botsnack.svg?branch=master)](https://travis-ci.org/strugee/hubot-botsnack)
 [![Coverage Status](https://coveralls.io/repos/github/strugee/hubot-botsnack/badge.svg?branch=master)](https://coveralls.io/github/strugee/hubot-botsnack?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/strugee/hubot-botsnack.svg)](https://greenkeeper.io/)
 
 botsnack command implementation for Hubot
 
