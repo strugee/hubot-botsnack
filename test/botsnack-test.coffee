@@ -8,6 +8,8 @@ helper = new Helper '../src/botsnack.coffee'
 describe 'botsnack', ->
   beforeEach ->
     @room = helper.createRoom()
+    @room.robot.Response = class extends Helper.Response
+      random: (arr) -> arr[0]
 
   afterEach ->
     @room.destroy()
