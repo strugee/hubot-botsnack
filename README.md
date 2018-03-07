@@ -31,7 +31,7 @@ hubot>> *catches the botsnack in midair*
 
 ## Testing
 
-Use `npm test` - this will retry the test suite 3 times, to account for the random responses
+Use `npm test`.
 
 ## npm Module
 
