@@ -7,10 +7,10 @@
   "keywords": "hubot, hubot-scripts, botsnack",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-botsnack.git"
+    "url": "git://github.com/strugee/hubot-botsnack.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-botsnack/issues"
+    "url": "https://github.com/strugee/hubot-botsnack/issues"
   },
   "dependencies": {},
   "peerDependencies": {
