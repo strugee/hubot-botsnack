@@ -2,6 +2,12 @@
 
 `hubot-botsnack` follows [Semantic Versioning][1].
 
+## 2.0.0 - future
+
+### Breaking
+
+* Drop Node 4
+
 ## 1.0.0 - 2017-08-25
 
 ### Fixed
