@@ -4,6 +4,10 @@
 
 ## 2.0.0 - future
 
+### Added
+
+* Node 10 and 12 support
+
 ### Fixed
 
 * Repo URLs in `package.json` are now correct
