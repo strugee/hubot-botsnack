@@ -6,7 +6,7 @@
 
 ### Breaking
 
-* Drop Node 4
+* Drop Node 4 and Node 6
 
 ## 1.0.0 - 2017-08-25
 

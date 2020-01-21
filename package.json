@@ -38,7 +38,7 @@
     "test": "nyc -r text -r lcov grunt test"
   },
   "engine": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "nyc": {
     "extension": [
