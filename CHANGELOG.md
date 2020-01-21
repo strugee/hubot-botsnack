@@ -4,6 +4,10 @@
 
 ## 2.0.0 - future
 
+### Fixed
+
+* Repo URLs in `package.json` are now correct
+
 ### Breaking
 
 * Drop Node 4 and Node 6
