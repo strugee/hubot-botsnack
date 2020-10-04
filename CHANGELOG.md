@@ -2,6 +2,8 @@
 
 `hubot-botsnack` follows [Semantic Versioning][1].
 
+ [1]: https://semver.org/
+
 ## 2.0.0 - future
 
 ### Added
